@@ -16,7 +16,7 @@ Acredito que o futuro da programação não é apenas escrever código linha por
 
 - 🧠 **Minha principal linguagem:** A Lógica e a Criatividade.
 - 🤖 **Meu superpoder:** Traduzir problemas complexos em prompts perfeitos para a IA.
-- 🏗️ **O que eu construo:** [Descreva o que você gosta de fazer, ex: Aplicativos Desktop, Painéis de Administração, Bots para Discord, etc.]
+- 🏗️ **O que eu construo:** Aplicativos Desktop, Painéis de Administração, Bots para Discord, etc.
 - 🎯 **Meu foco atual:** Criar ecossistemas de software robustos e automatizados.
 
 ---
