@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7c3aed&height=250&section=header&text=Olá!%20Eu%20sou%20o%20[LuizFelipe]&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7c3aed&height=250&section=header&text=Olá!%20Eu%20sou%20o%20LuizFelipe&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=ffffff" />
 </div>
 
 <h2 align="center"> Arquiteto de Ideias & AI Maker 🚀 </h2>
@@ -47,8 +47,8 @@ Acredito que o futuro da programação não é apenas escrever código linha por
 ### 📊 Estatísticas e Projetos
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[SEU_USUARIO_AQUI]&show_icons=true&theme=tokyonight&hide_border=true&bg_color=09090b" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[SEU_USUARIO_AQUI]&theme=tokyonight&hide_border=true&background=09090b" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=LuizF13&show_icons=true&theme=tokyonight&hide_border=true&bg_color=09090b" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LuizF13&theme=tokyonight&hide_border=true&background=09090b" width="48%" />
 </div>
 
 ---
@@ -61,7 +61,7 @@ Se você precisa de alguém para tirar uma ideia do papel e transformar em um ap
   <a href="mailto:[seu-email@gmail.com]">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://discord.com/users/[seu-id-do-discord]">
+  <a href="https://discord.com/users/654071717492162570">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/[seu-linkedin]">
