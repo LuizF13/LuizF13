@@ -64,7 +64,7 @@ Se você precisa de alguém para tirar uma ideia do papel e transformar em um ap
   <a href="https://discord.com/users/654071717492162570">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/[seu-linkedin]">
+  <a href="https://linkedin.com/in/luiz-felipe-correa-a1707830b">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
