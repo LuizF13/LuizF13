@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7c3aed&height=250&section=header&text=Olá!%20Eu%20sou%20o%20[Seu%20Nome]&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7c3aed&height=250&section=header&text=Olá!%20Eu%20sou%20o%20[Luiz Felipe]&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=ffffff" />
 </div>
 
 <h2 align="center"> Arquiteto de Ideias & AI Maker 🚀 </h2>
